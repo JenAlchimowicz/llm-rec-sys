@@ -53,7 +53,7 @@ with st.sidebar:
 
 
 # st.set_page_config(layout="wide")
-st.markdown("<h1 style='text-align: center'>Giff movie</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center'>context2movie</h1>", unsafe_allow_html=True)
 for _ in range(2):
     st.markdown("")
 
