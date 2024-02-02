@@ -1,4 +1,4 @@
 streamlit
 cohere
-pinecone-client
+pinecone-client==2.2.4
 boto3
